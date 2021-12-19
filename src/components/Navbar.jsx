@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Nav() {
+export default function Navbar() {
     return (
         <div className="py-6">
             <div className="container flex justify-between items-center mx-auto px-8 md:px-14 lg:px-24 w-full">
