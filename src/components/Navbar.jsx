@@ -7,7 +7,7 @@ export default function Navbar() {
                 <div className="font-bold">Victor Alfaro</div>
                 <div className="hidden md:flex space-x-12 items-center">
                     <a href="#" className="text-selected-text">Home</a>
-                    <a href="#work">Work</a>
+                    <a href="#projects">Projects</a>
                     <a href="#contact">Contact</a>
                     <a href="#resume"><button className="px-6 py-2 bg-theme font-bold">Resume</button></a>
                 </div>
