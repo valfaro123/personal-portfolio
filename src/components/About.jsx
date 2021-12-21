@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function About() {
     return (
-        <div className="container mt-64 flex justify-between items-center mx-auto px-8 md:px-14">
+        <div className="container mt-80 flex justify-between items-center mx-auto px-8 md:px-14">
             <section className="w-full">
                 <h2 id="about" className="secondary-title">About Me</h2>
                 <p className="section-paragraph">
