@@ -58,14 +58,9 @@ export default function DotNav() {
             name: "Contact",
         },
     ];
-
-    
-    
     return (
-        
         <div className="dotnav">
             <nav className="inline-block fixed left-percentage hidden xl:block">
-
                 <div className="absolute left-50 transform -translate-x-1/2 space-y-6 mt-36">
                     {
                         dotNavItems.map( (item ,index) => {
