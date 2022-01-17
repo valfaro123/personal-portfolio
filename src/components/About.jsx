@@ -9,17 +9,18 @@ export default function About() {
         "Bootstrap",
         "Tailwind",
         "Git/Github",
-        "NodeJS",
+        "AntDesign",
     ]
 
     return (
         <div className="container mt-80 flex justify-between items-center mx-auto px-8 md:px-14">
             <section className="w-full">
                 <h2 id="about" className="secondary-title">About Me</h2>
-                <div className="w-full grid lg:grid-cols-2 gap-8 lg:gap-32 mt-24">
+                <div className="w-full grid lg:grid-cols-2 gap-8 lg:gap-32 mt-10">
 
                     <p className="text-secondary">
-                    ontrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+                    Hello, my name is Victor and I am a front-end developer. I was introduced to web development while pursuing my bachelors degree in computer science &#40;Graduated FW2021&#41; and quickly realized my love for building sites. While I learned the basics of HTML, CSS, and Javascript in my courses, I continued my learning by completing several courses on web development and utilizing online learning resources. I primarily use ReactJS now but am always interested in learning new ways to tackle problems. While the bulk of my learning has been on the front-end, I do have some experience working on the backend with node JS and mongoDB. Here are some other tools and libraries I have been working with recently:   
+                    </p>
                     <ul className=" grid grid-cols-2">
                         {toolsetList.map((toolsetListItem, index)=>{
                             return(
