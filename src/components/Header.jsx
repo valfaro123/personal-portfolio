@@ -10,7 +10,7 @@ export default function Header() {
                     <h1 className="font-bold text-5xl md:text-6xl lg:text-7xl text-center md:text-left">Front End<br/>  web developer.</h1>
                     <div className="w-full flex justify-center md:justify-start">
                         <button className="px-8 py-4 bg-theme text-white font-bold mt-12 flex items-center space-x-3">
-                            <span>View my work</span>
+                            <span>Learn More</span>
                         </button>
                     </div>
                 </div>
