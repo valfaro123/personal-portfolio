@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.19d387f4.css",
-    "main.js": "/static/js/main.58a745fe.js",
+    "main.js": "/static/js/main.7921a87c.js",
     "static/media/ableton-mockup.jpg": "/static/media/ableton-mockup.4fa8982954e22f28d2bc.jpg",
     "static/media/novacane-mockup.jpg": "/static/media/novacane-mockup.a73630584e3ce8d82c99.jpg",
     "static/media/crypto-mockup.jpg": "/static/media/crypto-mockup.003c92e17d69c5a73d3c.jpg",
     "static/media/VictorAlfaroResume.pdf": "/static/media/VictorAlfaroResume.fa7ae4debb4c36c884f4.pdf",
     "index.html": "/index.html",
     "main.19d387f4.css.map": "/static/css/main.19d387f4.css.map",
-    "main.58a745fe.js.map": "/static/js/main.58a745fe.js.map"
+    "main.7921a87c.js.map": "/static/js/main.7921a87c.js.map"
   },
   "entrypoints": [
     "static/css/main.19d387f4.css",
-    "static/js/main.58a745fe.js"
+    "static/js/main.7921a87c.js"
   ]
 }
