@@ -1,5 +1,5 @@
 import React,{ useState } from 'react';
-
+import resume from '../pdf/VictorAlfaroResume.pdf'
 
 export default function Navbar() {
     const [isOpened, setIsOpened] = useState(false)
@@ -20,7 +20,7 @@ export default function Navbar() {
                     <a href="#about">About</a>
                     <a href="#projects">Projects</a>
                     <a href="#contact">Contact</a>
-                    <a href="#resume"><button className="px-6 py-2 bg-theme font-bold">Resume</button></a>
+                    <a href="#resume"  href={resume} target="_blank" rel="noopener noreferrer" className="text-theme lg:px-6 lg:py-2 lg:bg-theme lg:font-bold lg:text-white">Resume</a>
                 </div>
                 
             </div>
