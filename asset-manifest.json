@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/ableton-about-clone/static/css/main.18caa125.css",
-    "main.js": "/ableton-about-clone/static/js/main.dc5dc31b.js",
-    "static/media/ableton-mockup.jpg": "/ableton-about-clone/static/media/ableton-mockup.78d2c5ed97547bdec4bd.jpg",
-    "static/media/novacane-mockup.jpg": "/ableton-about-clone/static/media/novacane-mockup.d418ee093e6a6fd361b2.jpg",
-    "static/media/crypto-mockup.jpg": "/ableton-about-clone/static/media/crypto-mockup.33c4ad692ed113a1d759.jpg",
-    "index.html": "/ableton-about-clone/index.html",
-    "main.18caa125.css.map": "/ableton-about-clone/static/css/main.18caa125.css.map",
-    "main.dc5dc31b.js.map": "/ableton-about-clone/static/js/main.dc5dc31b.js.map"
+    "main.css": "/personal-portfolio/static/css/main.af14cc2d.css",
+    "main.js": "/personal-portfolio/static/js/main.3e84b56a.js",
+    "static/media/ableton-mockup.jpg": "/personal-portfolio/static/media/ableton-mockup.4fa8982954e22f28d2bc.jpg",
+    "static/media/novacane-mockup.jpg": "/personal-portfolio/static/media/novacane-mockup.a73630584e3ce8d82c99.jpg",
+    "static/media/crypto-mockup.jpg": "/personal-portfolio/static/media/crypto-mockup.003c92e17d69c5a73d3c.jpg",
+    "static/media/VictorAlfaroResume.pdf": "/personal-portfolio/static/media/VictorAlfaroResume.fa7ae4debb4c36c884f4.pdf",
+    "index.html": "/personal-portfolio/index.html",
+    "main.af14cc2d.css.map": "/personal-portfolio/static/css/main.af14cc2d.css.map",
+    "main.3e84b56a.js.map": "/personal-portfolio/static/js/main.3e84b56a.js.map"
   },
   "entrypoints": [
-    "static/css/main.18caa125.css",
-    "static/js/main.dc5dc31b.js"
+    "static/css/main.af14cc2d.css",
+    "static/js/main.3e84b56a.js"
   ]
 }
